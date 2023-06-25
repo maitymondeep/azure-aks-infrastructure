@@ -1,6 +1,6 @@
 # AZURE-AKS-INFRASTRUCTURE
 
-## Infrastructure Repo for AKS setup, Code has written on HCL and needs to be deployed via Terraform.
+### Infrastructure Repo for AKS setup, Code has written on HCL and needs to be deployed via Terraform.
 
 ## Using this terraform code we will be able to create below resources for AKS setup.
 
